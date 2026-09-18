@@ -16,7 +16,7 @@ Projeto desenvolvido como parte de um desafio prático da DIO. O objetivo é apl
 
 ## Como utilizar
 
-1. Abra o arquivo `Simulador_Investimentos_FII_Izabela.xlsx` no Excel.
+1. Abra o arquivo `Simulador_Investimentos_DIO_Izabela.xlsx` no Excel.
 2. Acesse a aba **Simulador**.
 3. Preencha as células amarelas com salário, percentual de investimento, aporte mensal, prazo, taxas e perfil.
 4. Consulte os resultados calculados automaticamente.
