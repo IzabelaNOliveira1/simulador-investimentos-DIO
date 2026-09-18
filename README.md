@@ -75,4 +75,4 @@ Este projeto tem finalidade educacional. As taxas utilizadas são hipóteses edi
 
 ## Autora
 
-Izabela
+Izabela Oliveira
